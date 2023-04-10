@@ -1,0 +1,57 @@
+.faint_detail{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-items: center;
+}
+
+.titleFont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: midnightblue;
+    font-weight: bold;
+    font-size: xx-large;
+    padding: 15px;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold1{
+    font-weight: 100;
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.style1{
+    font-weight: bolder;
+    color: rgb(0, 159, 71);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subheader{
+    float: right;
+}
+
+.centertext{
+    text-align: center;
+}
+
+a:hover{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.box{
+    position: static;
+    display: block;
+    border: 4px solid coral;
+}
